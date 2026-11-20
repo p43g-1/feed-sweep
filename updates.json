@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "feed-sweep@p43g": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://p43g-1.github.io/feed-sweep/feed-sweep-1.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
